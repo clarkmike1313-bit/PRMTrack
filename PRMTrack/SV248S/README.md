@@ -1,1 +1,0 @@
-Satellite video object tracking.
